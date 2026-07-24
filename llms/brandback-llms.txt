@@ -1,0 +1,38 @@
+# Brandback
+
+> Embedded resale infrastructure for online retailers. We help brands turn every purchase into a tradable asset.
+
+## What Brandback Does
+
+Brandback integrates resale directly into online retailers' baskets, product listings, and checkouts. Customers see the future resale value of items before they buy, which increases conversion rates and drives loyalty through store credit incentives.
+
+We handle the full resale process: customer service, shipping, disputes, and payouts. Retailers plug us in and focus on their core business.
+
+## How It Works
+
+- Resale values are shown at checkout to boost conversions
+- Customers can resell items with a single click
+- AI handles pricing recommendations and condition checks
+- A white-label marketplace can be set up for each brand
+- Works with any e-commerce platform, no upfront costs
+
+## Key Facts
+
+- Founded: 2023
+- Based in: Berlin, Germany
+- Funding: $7.4M (Pre-Seed and Seed), led by Earlybird VC
+- Legal entity: Arbor Technologies GmbH
+- Customers include brands like Replay Jeans and Sandqvist
+
+## Results
+
+- 9.5% average increase in conversion rates
+- 70% of customers choose store credit as their payout option
+
+## Links
+
+- Website: https://www.brandback.ai
+- Use Cases: https://www.brandback.ai/use-cases
+- Case Studies: https://www.brandback.ai/case-studies
+- Careers: https://brandback.notion.site/careers-at-brandback
+- Contact: Request a demo at https://www.brandback.ai

@@ -1,7 +1,29 @@
 aid: brandback
 name: Brandback
-description: Brandback is a company surfaced as a portfolio company of earlybird and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Brandback is a Berlin-based embedded resale infrastructure company (legal
+  entity Arbor Technologies GmbH) that lets online retailers and fashion brands
+  integrate resale directly into their baskets, product listings, and checkouts.
+  Shoppers see an item's future resale value before they buy, resell it later in
+  a single click, and receive store credit, while Brandback's AI handles pricing
+  recommendations, condition checks, customer service, shipping, disputes, and
+  payouts. Retailers can launch a white-label resale marketplace with no upfront
+  cost and integrate with any e-commerce platform. Founded in 2023 and backed by
+  $7.4M in pre-seed and seed funding led by Earlybird VC, Brandback reports a
+  9.5% average conversion-rate lift with customers including Replay Jeans and
+  Sandqvist.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://cdn.prod.website-files.com/668cdbbfe34988a4298a09f2/683720bc986d58f4be5ace87_Bildschirmfoto%202025-05-28%20um%2016.41.08.webp
 url: https://raw.githubusercontent.com/api-evangelist/brandback/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,12 +33,45 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
+- Resale
+- Recommerce
+- E-commerce
+- Retail
+- Sustainability
+- Fashion
+- Circular Economy
 apis: []
+common:
+- type: DomainSecurity
+  url: security/brandback-domain-security.yml
+- type: Website
+  url: https://www.brandback.ai
+- type: Login
+  url: https://app.brandback.de/login
+- type: Documentation
+  url: https://www.brandback.ai/docs/klaviyo-quickstart
+- type: Support
+  url: https://www.brandback.ai/frequently-asked-questions
+- type: PrivacyPolicy
+  url: https://www.brandback.ai/privacy-policy
+- type: TermsOfService
+  url: https://www.brandback.ai/terms-of-use
+- type: Imprint
+  url: https://www.brandback.ai/imprint
+- type: Careers
+  url: https://brandback.notion.site/careers-at-brandback
+- type: LLMsTxt
+  url: llms/brandback-llms.txt
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

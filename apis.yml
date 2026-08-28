@@ -12,6 +12,17 @@ description: >-
   $7.4M in pre-seed and seed funding led by Earlybird VC, Brandback reports a
   9.5% average conversion-rate lift with customers including Replay Jeans and
   Sandqvist.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown

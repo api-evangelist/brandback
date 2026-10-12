@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/brandback/integrations
+- https://n8n.io/integrations/brandback/
+- https://composio.dev/toolkits/brandback
+- https://monid.ai/tools/brandback
+checked:
+- https://composio.dev/toolkits/brandback
+- https://monid.ai/tools/brandback
+- https://n8n.io/integrations/brandback/
+- https://zapier.com/apps/brandback/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
